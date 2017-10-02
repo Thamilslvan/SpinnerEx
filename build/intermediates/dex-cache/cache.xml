@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Welcome\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\Android_Projects_In_Trofeo\SpinnerEx\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_be44a4a5f0ae1f5b813871b28d3e9dcad5326053.jar" />
+    </item>
+
+</items>
